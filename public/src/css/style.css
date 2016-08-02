@@ -1,0 +1,57 @@
+ul.media-list {
+    border: 1px solid #eee;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 15px;
+}
+
+footer.main-footer {
+    margin-top: 30px;
+}
+
+footer.main-footer nav.navbar {
+    margin-bottom: 0;
+}
+
+blockquote.quote {
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+
+blockquote.quote a {
+    text-decoration: underline;
+}
+
+blockquote.quote a:hover {
+    color: #545454;
+}
+
+.text-muted {
+    /*color: #444444;*/
+}
+
+.col-centered {
+    margin: 0 auto;
+    float: none;
+    text-align: center;
+}
+
+.col-centered .alert {
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+a .fa {
+    font-size: 30px;
+    color: #383838;
+}
+
+#admin-form {
+    position: relative;
+}
+
+#admin-form .panel {
+    padding: 50px;
+}
